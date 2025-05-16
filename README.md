@@ -1,8 +1,9 @@
 # Gemini Sidebar Navigator (v1.0.0)
+![image](https://github.com/user-attachments/assets/83729625-643b-411b-aebd-e56b019edcac)
 
 ## Overview
 
-The **Gemini Sidebar Navigator** is a UserScript designed to enhance the user experience on Google's Gemini web interface (`gemini.google.com`). It adds a convenient, collapsible sidebar that lists all the user's prompts (questions) from the current chat session. Clicking on a prompt in the sidebar will smoothly scroll the main chat window to that specific prompt, highlighting it briefly for easy identification.
+该 **Gemini Sidebar Navigator** is a UserScript designed to enhance the user experience on Google's Gemini web interface (`gemini.google.com`). It adds a convenient, collapsible sidebar that lists all the user's prompts (questions) from the current chat session. Clicking on a prompt in the sidebar will smoothly scroll the main chat window to that specific prompt, highlighting it briefly for easy identification.
 
 This script is particularly useful for long conversations, allowing users to quickly revisit previous questions without manually scrolling through the entire chat history.
 
